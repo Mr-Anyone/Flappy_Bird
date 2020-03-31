@@ -63,7 +63,6 @@ while run:
     pygame.display.update()
     pygame.display.flip()
 
-    print("LMAO")
 
 pygame.quit()
 
